@@ -1,0 +1,22 @@
+{
+  "lg_position": "./log.md",
+  "url_data_position": "./dt/",
+  "paper_target_position": "./pps/",
+  "is_proxies" : "False",
+  "deep_level": "3",
+  "is_rlist": "True",
+  "rlst": [
+    "ACM Transactions on Computer-Human Interaction (TOCHI).md",
+    "International Journal of Human-Computer Studies.md",
+    "Conference on Computer Supported Cooperative Work (CSCW).md",
+    "Computer Human Interaction (CHI).md",
+    "Ubiquitous Computing (UbiComp).md",
+    "ACM Transactions on Graphics (TOG).md",
+    "IEEE Transactions on Image Processing.md",
+    "IEEE Transactions on Visualization and Computer Graphics.md",
+    "ACM Multimedia.md",
+    "SIGGRAPH Conference on Computer Graphics and Interactive Techniques.md",
+    "Virtual Reality Conference.md",
+    "Visualization.md"
+  ]
+}
