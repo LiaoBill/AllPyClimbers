@@ -2,3 +2,6 @@ dt/*
 pps/*
 pps_lkup/*
 test.py
+scene-ocr-target
+eccv_a.md
+res_filter.py

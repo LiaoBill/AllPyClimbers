@@ -17,13 +17,13 @@
 ---
 
 # 计算机网络
-IEEE Journal of Selected Areas in Communications
-IEEE Transactions on Mobile Computing (TMC)
-IEEE-ACM Transactions on Networking (TON)
-ACM SIGCOMM Conference
-ACM-IEEE International Conference on Mobile Computing and Networking (MobiCom)
-IEEE INFOCOM
-Networked Systems Design and Implementation
+"IEEE Journal of Selected Areas in Communications"
+"IEEE Transactions on Mobile Computing (TMC)"
+"IEEE-ACM Transactions on Networking (TON)"
+"ACM SIGCOMM Conference"
+"ACM-IEEE International Conference on Mobile Computing and Networking (MobiCom)"
+"IEEE INFOCOM"
+"Networked Systems Design and Implementation"
 
 ---
 
@@ -80,7 +80,7 @@ Logic in Computer Science (LICS)
 
 ---
 
-# 计算机图形学与多媒体
+# 计算机图形学与多媒体 -- 3
 "ACM Transactions on Graphics (TOG)"
 "IEEE Transactions on Image Processing"
 "IEEE Transactions on Visualization and Computer Graphics"
@@ -91,7 +91,7 @@ Logic in Computer Science (LICS)
 
 ---
 
-# 人工智能
+# 人工智能 -- 3
 "Artificial Intelligence"
 "IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)"
 "International Journal of Computer Vision"
@@ -106,7 +106,7 @@ Logic in Computer Science (LICS)
 
 ---
 
-# 人机交互与普适计算
+# 人机交互与普适计算 -- 3
 "ACM Transactions on Computer-Human Interaction (TOCHI)"
 "International Journal of Human-Computer Studies"
 "Conference on Computer Supported Cooperative Work (CSCW)"

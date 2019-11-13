@@ -2,8 +2,8 @@ import json
 import math
 import os
 import re
+import time
 from datetime import datetime
-from time import time
 
 import requests
 from bs4 import BeautifulSoup
@@ -27,7 +27,7 @@ def set_url():
     'jsonp': 'jsonp',
     'type': '1',
     'sort': '2',
-    'oid': '72003009',
+    'oid': '73991798',
     'pn': ''
   }
   url = url_base
@@ -105,6 +105,7 @@ def main_func():
   # each page for loop
   log_out(1, "Requesting pages.")
   res_usr_inf = []
+  cter_counter = 0
   for i in range(whole_page_count):
     current_url = get_current_url(i)
     log_out(2, "Requesting page: " + str(i + 1))
@@ -112,6 +113,8 @@ def main_func():
     if check_success(3, c_pg, "Request page") == False:
       return False
     c_rpls = c_pg['data']['replies']
+    if c_rpls == None:
+      continue
     for rpl in c_rpls:
       def get_usr_inf(rpl):
         try:
@@ -147,6 +150,14 @@ def main_func():
       if check_success(4, c_user_inf, "Reply Fetch") == False:
         return False
       res_usr_inf.append(c_user_inf)
+    # waiting
+    cter_counter += 1
+    if cter_counter % 5 == 0:
+      time.sleep(1)
+      log_out(3, "Time sleep big.")
+    else:
+      time.sleep(0.3)
+      log_out(3, "Time sleep small.")
 
   log_out(1, "Dumping to json.")
   def opt_json(res_usr_inf):

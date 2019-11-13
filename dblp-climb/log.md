@@ -1,241 +1,315 @@
 <LGSTART>
-[ LOG--2019-10-18-16-01-57] : PrewK___ISOLATE URLS READY!
-[ LOG--2019-10-18-16-01-57] : PrewK___MKDIRS READY!
-[ LOG--2019-10-18-16-01-57] : * STP URL == https://dblp.uni-trier.de/db/journals/tochi/tochi26.html
-[ LOG--2019-10-18-16-01-57] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-01-59] :   * NetPccsing Complete!___T-cst:{-2.1820242404937744}
-[ LOG--2019-10-18-16-01-59] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-01-59] :   * Pdpccsing Complete!___T-cst:{0.3430817127227783}
-[ LOG--2019-10-18-16-01-59] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-01-59] :   * PppsGetting Complete!___T-cst:{0.10426759719848633}
-[ LOG--2019-10-18-16-01-59] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-01-59] :   * FTTLGetting Complete!___T-cst:{0.0010242462158203125}
-[ LOG--2019-10-18-16-01-59] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-01-59] :   * WTFProcessing Complete!___T-cst:{0.0019941329956054688}
-[ LOG--2019-10-18-16-01-59] : * FIN URL == https://dblp.uni-trier.de/db/journals/tochi/tochi26.html
-[ LOG--2019-10-18-16-01-59] : ---------------------------------
-[ LOG--2019-10-18-16-01-59] : * STP URL == https://dblp.uni-trier.de/db/journals/tochi/tochi25.html
-[ LOG--2019-10-18-16-01-59] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-00] :   * NetPccsing Complete!___T-cst:{-1.0491430759429932}
-[ LOG--2019-10-18-16-02-00] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-01] :   * Pdpccsing Complete!___T-cst:{0.3310987949371338}
-[ LOG--2019-10-18-16-02-01] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-01] :   * PppsGetting Complete!___T-cst:{0.09075021743774414}
-[ LOG--2019-10-18-16-02-01] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-01] :   * FTTLGetting Complete!___T-cst:{0.0009963512420654297}
-[ LOG--2019-10-18-16-02-01] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-01] :   * WTFProcessing Complete!___T-cst:{0.0009915828704833984}
-[ LOG--2019-10-18-16-02-01] : * FIN URL == https://dblp.uni-trier.de/db/journals/tochi/tochi25.html
-[ LOG--2019-10-18-16-02-01] : ---------------------------------
-[ LOG--2019-10-18-16-02-01] : * STP URL == https://dblp.uni-trier.de/db/journals/tochi/tochi24.html
-[ LOG--2019-10-18-16-02-01] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-02] :   * NetPccsing Complete!___T-cst:{-1.0271492004394531}
-[ LOG--2019-10-18-16-02-02] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-02] :   * Pdpccsing Complete!___T-cst:{0.40642356872558594}
-[ LOG--2019-10-18-16-02-02] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-02] :   * PppsGetting Complete!___T-cst:{0.11433577537536621}
-[ LOG--2019-10-18-16-02-02] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-02] :   * FTTLGetting Complete!___T-cst:{0.0009984970092773438}
-[ LOG--2019-10-18-16-02-02] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-02] :   * WTFProcessing Complete!___T-cst:{0.0029900074005126953}
-[ LOG--2019-10-18-16-02-02] : * FIN URL == https://dblp.uni-trier.de/db/journals/tochi/tochi24.html
-[ LOG--2019-10-18-16-02-02] : ---------------------------------
-[ LOG--2019-10-18-16-02-02] : * STP URL == https://dblp.uni-trier.de/db/journals/ijmms/ijmms121.html
-[ LOG--2019-10-18-16-02-02] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-03] :   * NetPccsing Complete!___T-cst:{-0.8216664791107178}
-[ LOG--2019-10-18-16-02-03] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-03] :   * Pdpccsing Complete!___T-cst:{0.10970640182495117}
-[ LOG--2019-10-18-16-02-03] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-03] :   * PppsGetting Complete!___T-cst:{0.030898332595825195}
-[ LOG--2019-10-18-16-02-03] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-03] :   * FTTLGetting Complete!___T-cst:{0.0009772777557373047}
-[ LOG--2019-10-18-16-02-03] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-03] :   * WTFProcessing Complete!___T-cst:{0.0}
-[ LOG--2019-10-18-16-02-03] : * FIN URL == https://dblp.uni-trier.de/db/journals/ijmms/ijmms121.html
-[ LOG--2019-10-18-16-02-03] : ---------------------------------
-[ LOG--2019-10-18-16-02-03] : * STP URL == https://dblp.uni-trier.de/db/journals/ijmms/ijmms122.html
-[ LOG--2019-10-18-16-02-03] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-04] :   * NetPccsing Complete!___T-cst:{-0.9119117259979248}
-[ LOG--2019-10-18-16-02-04] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-05] :   * Pdpccsing Complete!___T-cst:{0.20644736289978027}
-[ LOG--2019-10-18-16-02-05] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-05] :   * PppsGetting Complete!___T-cst:{0.05189847946166992}
-[ LOG--2019-10-18-16-02-05] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-05] :   * FTTLGetting Complete!___T-cst:{0.0020112991333007812}
-[ LOG--2019-10-18-16-02-05] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-05] :   * WTFProcessing Complete!___T-cst:{0.0029973983764648438}
-[ LOG--2019-10-18-16-02-05] : * FIN URL == https://dblp.uni-trier.de/db/journals/ijmms/ijmms122.html
-[ LOG--2019-10-18-16-02-05] : ---------------------------------
-[ LOG--2019-10-18-16-02-05] : * STP URL == https://dblp.uni-trier.de/db/journals/ijmms/ijmms123.html
-[ LOG--2019-10-18-16-02-05] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-06] :   * NetPccsing Complete!___T-cst:{-1.5744707584381104}
-[ LOG--2019-10-18-16-02-06] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-06] :   * Pdpccsing Complete!___T-cst:{0.09273862838745117}
-[ LOG--2019-10-18-16-02-06] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-06] :   * PppsGetting Complete!___T-cst:{0.01993417739868164}
-[ LOG--2019-10-18-16-02-06] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-06] :   * FTTLGetting Complete!___T-cst:{0.001995563507080078}
-[ LOG--2019-10-18-16-02-06] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-06] :   * WTFProcessing Complete!___T-cst:{0.0019948482513427734}
-[ LOG--2019-10-18-16-02-06] : * FIN URL == https://dblp.uni-trier.de/db/journals/ijmms/ijmms123.html
-[ LOG--2019-10-18-16-02-06] : ---------------------------------
-[ LOG--2019-10-18-16-02-06] : * STP URL == https://dblp.uni-trier.de/db/conf/cscw/cscw2018c.html
-[ LOG--2019-10-18-16-02-06] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-08] :   * NetPccsing Complete!___T-cst:{-1.7945516109466553}
-[ LOG--2019-10-18-16-02-08] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-09] :   * Pdpccsing Complete!___T-cst:{1.0705654621124268}
-[ LOG--2019-10-18-16-02-09] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-10] :   * PppsGetting Complete!___T-cst:{0.39095473289489746}
-[ LOG--2019-10-18-16-02-10] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-10] :   * FTTLGetting Complete!___T-cst:{0.000982522964477539}
-[ LOG--2019-10-18-16-02-10] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-10] :   * WTFProcessing Complete!___T-cst:{0.0029935836791992188}
-[ LOG--2019-10-18-16-02-10] : * FIN URL == https://dblp.uni-trier.de/db/conf/cscw/cscw2018c.html
-[ LOG--2019-10-18-16-02-10] : ---------------------------------
-[ LOG--2019-10-18-16-02-10] : * STP URL == https://dblp.uni-trier.de/db/conf/cscw/cscw2017.html
-[ LOG--2019-10-18-16-02-10] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-12] :   * NetPccsing Complete!___T-cst:{-2.803633213043213}
-[ LOG--2019-10-18-16-02-12] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-14] :   * Pdpccsing Complete!___T-cst:{1.8133254051208496}
-[ LOG--2019-10-18-16-02-14] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-15] :   * PppsGetting Complete!___T-cst:{0.5314805507659912}
-[ LOG--2019-10-18-16-02-15] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-15] :   * FTTLGetting Complete!___T-cst:{0.0009975433349609375}
-[ LOG--2019-10-18-16-02-15] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-15] :   * WTFProcessing Complete!___T-cst:{0.0030205249786376953}
-[ LOG--2019-10-18-16-02-15] : * FIN URL == https://dblp.uni-trier.de/db/conf/cscw/cscw2017.html
-[ LOG--2019-10-18-16-02-15] : ---------------------------------
-[ LOG--2019-10-18-16-02-15] : * STP URL == https://dblp.uni-trier.de/db/conf/cscw/cscw2017c.html
-[ LOG--2019-10-18-16-02-15] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-17] :   * NetPccsing Complete!___T-cst:{-2.2515087127685547}
-[ LOG--2019-10-18-16-02-17] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-18] :   * Pdpccsing Complete!___T-cst:{0.950796365737915}
-[ LOG--2019-10-18-16-02-18] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-18] :   * PppsGetting Complete!___T-cst:{0.28798460960388184}
-[ LOG--2019-10-18-16-02-18] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-18] :   * FTTLGetting Complete!___T-cst:{0.000995635986328125}
-[ LOG--2019-10-18-16-02-18] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-18] :   * WTFProcessing Complete!___T-cst:{0.0019941329956054688}
-[ LOG--2019-10-18-16-02-18] : * FIN URL == https://dblp.uni-trier.de/db/conf/cscw/cscw2017c.html
-[ LOG--2019-10-18-16-02-18] : ---------------------------------
-[ LOG--2019-10-18-16-02-18] : * STP URL == https://dblp.uni-trier.de/db/conf/chi/chi2019.html
-[ LOG--2019-10-18-16-02-18] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-25] :   * NetPccsing Complete!___T-cst:{-7.077388286590576}
-[ LOG--2019-10-18-16-02-25] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-32] :   * Pdpccsing Complete!___T-cst:{6.541491746902466}
-[ LOG--2019-10-18-16-02-32] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-34] :   * PppsGetting Complete!___T-cst:{2.066591501235962}
-[ LOG--2019-10-18-16-02-34] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-34] :   * FTTLGetting Complete!___T-cst:{0.0009944438934326172}
-[ LOG--2019-10-18-16-02-34] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-34] :   * WTFProcessing Complete!___T-cst:{0.006035566329956055}
-[ LOG--2019-10-18-16-02-34] : * FIN URL == https://dblp.uni-trier.de/db/conf/chi/chi2019.html
-[ LOG--2019-10-18-16-02-34] : ---------------------------------
-[ LOG--2019-10-18-16-02-34] : * STP URL == https://dblp.uni-trier.de/db/conf/chi/chi2019a.html
-[ LOG--2019-10-18-16-02-34] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-39] :   * NetPccsing Complete!___T-cst:{-4.715463638305664}
-[ LOG--2019-10-18-16-02-39] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-44] :   * Pdpccsing Complete!___T-cst:{5.548633575439453}
-[ LOG--2019-10-18-16-02-44] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-46] :   * PppsGetting Complete!___T-cst:{1.8181705474853516}
-[ LOG--2019-10-18-16-02-46] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-46] :   * FTTLGetting Complete!___T-cst:{0.0009982585906982422}
-[ LOG--2019-10-18-16-02-46] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-46] :   * WTFProcessing Complete!___T-cst:{0.003977775573730469}
-[ LOG--2019-10-18-16-02-46] : * FIN URL == https://dblp.uni-trier.de/db/conf/chi/chi2019a.html
-[ LOG--2019-10-18-16-02-46] : ---------------------------------
-[ LOG--2019-10-18-16-02-46] : * STP URL == https://dblp.uni-trier.de/db/conf/chi/chi2018.html
-[ LOG--2019-10-18-16-02-46] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-50] :   * NetPccsing Complete!___T-cst:{-4.012821912765503}
-[ LOG--2019-10-18-16-02-50] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-02-56] :   * Pdpccsing Complete!___T-cst:{6.126948118209839}
-[ LOG--2019-10-18-16-02-56] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-02-58] :   * PppsGetting Complete!___T-cst:{1.7406387329101562}
-[ LOG--2019-10-18-16-02-58] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-02-58] :   * FTTLGetting Complete!___T-cst:{0.0009970664978027344}
-[ LOG--2019-10-18-16-02-58] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-02-58] :   * WTFProcessing Complete!___T-cst:{0.007968902587890625}
-[ LOG--2019-10-18-16-02-58] : * FIN URL == https://dblp.uni-trier.de/db/conf/chi/chi2018.html
-[ LOG--2019-10-18-16-02-58] : ---------------------------------
-[ LOG--2019-10-18-16-02-58] : * STP URL == https://dblp.uni-trier.de/db/conf/huc/ubicomp2019.html
-[ LOG--2019-10-18-16-02-58] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-02-59] :   * NetPccsing Complete!___T-cst:{-1.0412898063659668}
-[ LOG--2019-10-18-16-02-59] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-03-00] :   * Pdpccsing Complete!___T-cst:{0.6941525936126709}
-[ LOG--2019-10-18-16-03-00] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-03-00] :   * PppsGetting Complete!___T-cst:{0.1436152458190918}
-[ LOG--2019-10-18-16-03-00] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-03-00] :   * FTTLGetting Complete!___T-cst:{0.000997781753540039}
-[ LOG--2019-10-18-16-03-00] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-03-00] :   * WTFProcessing Complete!___T-cst:{0.000990152359008789}
-[ LOG--2019-10-18-16-03-00] : * FIN URL == https://dblp.uni-trier.de/db/conf/huc/ubicomp2019.html
-[ LOG--2019-10-18-16-03-00] : ---------------------------------
-[ LOG--2019-10-18-16-03-00] : * STP URL == https://dblp.uni-trier.de/db/conf/huc/ubicomp2019ap.html
-[ LOG--2019-10-18-16-03-00] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-03-02] :   * NetPccsing Complete!___T-cst:{-2.3657240867614746}
-[ LOG--2019-10-18-16-03-02] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-03-05] :   * Pdpccsing Complete!___T-cst:{2.4608728885650635}
-[ LOG--2019-10-18-16-03-05] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-03-06] :   * PppsGetting Complete!___T-cst:{0.7014012336730957}
-[ LOG--2019-10-18-16-03-06] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-03-06] :   * FTTLGetting Complete!___T-cst:{0.0010287761688232422}
-[ LOG--2019-10-18-16-03-06] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-03-06] :   * WTFProcessing Complete!___T-cst:{0.003019094467163086}
-[ LOG--2019-10-18-16-03-06] : * FIN URL == https://dblp.uni-trier.de/db/conf/huc/ubicomp2019ap.html
-[ LOG--2019-10-18-16-03-06] : ---------------------------------
-[ LOG--2019-10-18-16-03-06] : * STP URL == https://dblp.uni-trier.de/db/conf/huc/ubicomp2018.html
-[ LOG--2019-10-18-16-03-06] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-03-07] :   * NetPccsing Complete!___T-cst:{-1.0185177326202393}
-[ LOG--2019-10-18-16-03-07] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-03-07] :   * Pdpccsing Complete!___T-cst:{0.6572461128234863}
-[ LOG--2019-10-18-16-03-07] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-03-07] :   * PppsGetting Complete!___T-cst:{0.15415620803833008}
-[ LOG--2019-10-18-16-03-07] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-03-07] :   * FTTLGetting Complete!___T-cst:{0.0009937286376953125}
-[ LOG--2019-10-18-16-03-07] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-03-07] :   * WTFProcessing Complete!___T-cst:{0.001988649368286133}
-[ LOG--2019-10-18-16-03-07] : * FIN URL == https://dblp.uni-trier.de/db/conf/huc/ubicomp2018.html
-[ LOG--2019-10-18-16-03-07] : ---------------------------------
-[ LOG--2019-10-18-16-03-07] : * STP URL == https://dblp.uni-trier.de/db/journals/tog/tog38.html
-[ LOG--2019-10-18-16-03-07] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-03-09] :   * NetPccsing Complete!___T-cst:{-2.0596752166748047}
-[ LOG--2019-10-18-16-03-09] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-03-11] :   * Pdpccsing Complete!___T-cst:{1.3832697868347168}
-[ LOG--2019-10-18-16-03-11] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-03-11] :   * PppsGetting Complete!___T-cst:{0.3620307445526123}
-[ LOG--2019-10-18-16-03-11] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-03-11] :   * FTTLGetting Complete!___T-cst:{0.0009930133819580078}
-[ LOG--2019-10-18-16-03-11] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-03-11] :   * WTFProcessing Complete!___T-cst:{0.0019943714141845703}
-[ LOG--2019-10-18-16-03-11] : * FIN URL == https://dblp.uni-trier.de/db/journals/tog/tog38.html
-[ LOG--2019-10-18-16-03-11] : ---------------------------------
-[ LOG--2019-10-18-16-03-11] : * STP URL == https://dblp.uni-trier.de/db/journals/tog/tog37.html
-[ LOG--2019-10-18-16-03-11] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-03-14] :   * NetPccsing Complete!___T-cst:{-2.3800339698791504}
-[ LOG--2019-10-18-16-03-14] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-03-16] :   * Pdpccsing Complete!___T-cst:{2.7005748748779297}
-[ LOG--2019-10-18-16-03-16] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-03-17] :   * PppsGetting Complete!___T-cst:{0.72817063331604}
-[ LOG--2019-10-18-16-03-17] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-03-17] :   * FTTLGetting Complete!___T-cst:{0.000997304916381836}
-[ LOG--2019-10-18-16-03-17] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-03-17] :   * WTFProcessing Complete!___T-cst:{0.0019910335540771484}
-[ LOG--2019-10-18-16-03-17] : * FIN URL == https://dblp.uni-trier.de/db/journals/tog/tog37.html
-[ LOG--2019-10-18-16-03-17] : ---------------------------------
-[ LOG--2019-10-18-16-03-17] : * STP URL == https://dblp.uni-trier.de/db/journals/tog/tog36.html
-[ LOG--2019-10-18-16-03-17] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-03-20] :   * NetPccsing Complete!___T-cst:{-2.558471202850342}
-[ LOG--2019-10-18-16-03-20] :   * Pdpccsing>>>>>>
-[ LOG--2019-10-18-16-03-23] :   * Pdpccsing Complete!___T-cst:{2.8803870677948}
-[ LOG--2019-10-18-16-03-23] :   * PppsGetting>>>>>>
-[ LOG--2019-10-18-16-03-23] :   * PppsGetting Complete!___T-cst:{0.7906665802001953}
-[ LOG--2019-10-18-16-03-23] :   * FTTLGetting>>>>>>
-[ LOG--2019-10-18-16-03-23] :   * FTTLGetting Complete!___T-cst:{0.0009980201721191406}
-[ LOG--2019-10-18-16-03-23] :   * WTFProcessing>>>>>>
-[ LOG--2019-10-18-16-03-23] :   * WTFProcessing Complete!___T-cst:{0.0019953250885009766}
-[ LOG--2019-10-18-16-03-23] : * FIN URL == https://dblp.uni-trier.de/db/journals/tog/tog36.html
-[ LOG--2019-10-18-16-03-23] : ---------------------------------
-[ LOG--2019-10-18-16-03-23] : * STP URL == https://dblp.uni-trier.de/db/journals/tip/tip29.html
-[ LOG--2019-10-18-16-03-23] :   * NetPccsing>>>>>>
-[ LOG--2019-10-18-16-03-25] :   * NetPccsing Complete!___T-cst:{-1.293273687362671}
-[ LOG--2019-10-18-16-03-25] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-00-59] : PrewK___ISOLATE URLS READY!
+[ LOG--2019-11-13-14-00-59] : PrewK___MKDIRS READY!
+[ LOG--2019-11-13-14-00-59] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/ijcai2019.html
+[ LOG--2019-11-13-14-00-59] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-13] :   * NetPccsing Complete!___T-cst:{-14.308008432388306}
+[ LOG--2019-11-13-14-01-13] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-21] :   * Pdpccsing Complete!___T-cst:{7.945239305496216}
+[ LOG--2019-11-13-14-01-21] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-24] :   * PppsGetting Complete!___T-cst:{2.416795253753662}
+[ LOG--2019-11-13-14-01-24] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-24] :   * FTTLGetting Complete!___T-cst:{0.0009975433349609375}
+[ LOG--2019-11-13-14-01-24] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-24] :   * WTFProcessing Complete!___T-cst:{0.008970260620117188}
+[ LOG--2019-11-13-14-01-24] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/ijcai2019.html
+[ LOG--2019-11-13-14-01-24] : ---------------------------------
+[ LOG--2019-11-13-14-01-24] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/ais2019.html
+[ LOG--2019-11-13-14-01-24] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-25] :   * NetPccsing Complete!___T-cst:{-1.140286922454834}
+[ LOG--2019-11-13-14-01-25] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-25] :   * Pdpccsing Complete!___T-cst:{0.21543502807617188}
+[ LOG--2019-11-13-14-01-25] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-25] :   * PppsGetting Complete!___T-cst:{0.058875083923339844}
+[ LOG--2019-11-13-14-01-25] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-25] :   * FTTLGetting Complete!___T-cst:{0.0019960403442382812}
+[ LOG--2019-11-13-14-01-25] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-25] :   * WTFProcessing Complete!___T-cst:{0.001966238021850586}
+[ LOG--2019-11-13-14-01-25] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/ais2019.html
+[ LOG--2019-11-13-14-01-25] : ---------------------------------
+[ LOG--2019-11-13-14-01-25] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/khd2019.html
+[ LOG--2019-11-13-14-01-25] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-28] :   * NetPccsing Complete!___T-cst:{-3.4390177726745605}
+[ LOG--2019-11-13-14-01-28] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-29] :   * Pdpccsing Complete!___T-cst:{0.12964439392089844}
+[ LOG--2019-11-13-14-01-29] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-29] :   * PppsGetting Complete!___T-cst:{0.029953718185424805}
+[ LOG--2019-11-13-14-01-29] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-29] :   * FTTLGetting Complete!___T-cst:{0.0010068416595458984}
+[ LOG--2019-11-13-14-01-29] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-29] :   * WTFProcessing Complete!___T-cst:{0.0019979476928710938}
+[ LOG--2019-11-13-14-01-29] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/khd2019.html
+[ LOG--2019-11-13-14-01-29] : ---------------------------------
+[ LOG--2019-11-13-14-01-29] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/lacatoda2019.html
+[ LOG--2019-11-13-14-01-29] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-30] :   * NetPccsing Complete!___T-cst:{-0.8368980884552002}
+[ LOG--2019-11-13-14-01-30] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-30] :   * Pdpccsing Complete!___T-cst:{0.12466621398925781}
+[ LOG--2019-11-13-14-01-30] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-30] :   * PppsGetting Complete!___T-cst:{0.03191375732421875}
+[ LOG--2019-11-13-14-01-30] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-30] :   * FTTLGetting Complete!___T-cst:{0.001024484634399414}
+[ LOG--2019-11-13-14-01-30] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-30] :   * WTFProcessing Complete!___T-cst:{0.0009968280792236328}
+[ LOG--2019-11-13-14-01-30] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/lacatoda2019.html
+[ LOG--2019-11-13-14-01-30] : ---------------------------------
+[ LOG--2019-11-13-14-01-30] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html
+[ LOG--2019-11-13-14-01-30] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-43] :   * NetPccsing Complete!___T-cst:{-13.575490713119507}
+[ LOG--2019-11-13-14-01-43] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-51] :   * Pdpccsing Complete!___T-cst:{7.592543125152588}
+[ LOG--2019-11-13-14-01-51] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-53] :   * PppsGetting Complete!___T-cst:{2.1697003841400146}
+[ LOG--2019-11-13-14-01-53] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-53] :   * FTTLGetting Complete!___T-cst:{0.0010142326354980469}
+[ LOG--2019-11-13-14-01-53] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-53] :   * WTFProcessing Complete!___T-cst:{0.017588138580322266}
+[ LOG--2019-11-13-14-01-53] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/ijcai2018.html
+[ LOG--2019-11-13-14-01-53] : ---------------------------------
+[ LOG--2019-11-13-14-01-53] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/att2018.html
+[ LOG--2019-11-13-14-01-53] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-54] :   * NetPccsing Complete!___T-cst:{-0.8933520317077637}
+[ LOG--2019-11-13-14-01-54] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-54] :   * Pdpccsing Complete!___T-cst:{0.1596050262451172}
+[ LOG--2019-11-13-14-01-54] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-54] :   * PppsGetting Complete!___T-cst:{0.03593325614929199}
+[ LOG--2019-11-13-14-01-54] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-54] :   * FTTLGetting Complete!___T-cst:{0.002027273178100586}
+[ LOG--2019-11-13-14-01-54] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-54] :   * WTFProcessing Complete!___T-cst:{0.0009958744049072266}
+[ LOG--2019-11-13-14-01-54] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/att2018.html
+[ LOG--2019-11-13-14-01-54] : ---------------------------------
+[ LOG--2019-11-13-14-01-54] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/madima2018.html
+[ LOG--2019-11-13-14-01-54] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-55] :   * NetPccsing Complete!___T-cst:{-0.9254212379455566}
+[ LOG--2019-11-13-14-01-55] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-55] :   * Pdpccsing Complete!___T-cst:{0.15857529640197754}
+[ LOG--2019-11-13-14-01-55] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-55] :   * PppsGetting Complete!___T-cst:{0.04787421226501465}
+[ LOG--2019-11-13-14-01-55] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-55] :   * FTTLGetting Complete!___T-cst:{0.0009903907775878906}
+[ LOG--2019-11-13-14-01-55] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-55] :   * WTFProcessing Complete!___T-cst:{0.0010004043579101562}
+[ LOG--2019-11-13-14-01-55] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/madima2018.html
+[ LOG--2019-11-13-14-01-55] : ---------------------------------
+[ LOG--2019-11-13-14-01-55] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/rtcmas2018.html
+[ LOG--2019-11-13-14-01-55] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-56] :   * NetPccsing Complete!___T-cst:{-0.930156946182251}
+[ LOG--2019-11-13-14-01-56] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-57] :   * Pdpccsing Complete!___T-cst:{0.10474920272827148}
+[ LOG--2019-11-13-14-01-57] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-57] :   * PppsGetting Complete!___T-cst:{0.028954267501831055}
+[ LOG--2019-11-13-14-01-57] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-57] :   * FTTLGetting Complete!___T-cst:{0.001031637191772461}
+[ LOG--2019-11-13-14-01-57] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-57] :   * WTFProcessing Complete!___T-cst:{0.0020041465759277344}
+[ LOG--2019-11-13-14-01-57] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/rtcmas2018.html
+[ LOG--2019-11-13-14-01-57] : ---------------------------------
+[ LOG--2019-11-13-14-01-57] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/fca4ai2018.html
+[ LOG--2019-11-13-14-01-57] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-01-58] :   * NetPccsing Complete!___T-cst:{-1.7057220935821533}
+[ LOG--2019-11-13-14-01-58] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-01-58] :   * Pdpccsing Complete!___T-cst:{0.15361928939819336}
+[ LOG--2019-11-13-14-01-58] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-01-58] :   * PppsGetting Complete!___T-cst:{0.033934593200683594}
+[ LOG--2019-11-13-14-01-58] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-01-58] :   * FTTLGetting Complete!___T-cst:{0.000993967056274414}
+[ LOG--2019-11-13-14-01-58] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-01-58] :   * WTFProcessing Complete!___T-cst:{0.0}
+[ LOG--2019-11-13-14-01-59] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/fca4ai2018.html
+[ LOG--2019-11-13-14-01-59] : ---------------------------------
+[ LOG--2019-11-13-14-01-59] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/khd2018.html
+[ LOG--2019-11-13-14-01-59] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-00] :   * NetPccsing Complete!___T-cst:{-1.5018231868743896}
+[ LOG--2019-11-13-14-02-00] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-00] :   * Pdpccsing Complete!___T-cst:{0.19048643112182617}
+[ LOG--2019-11-13-14-02-00] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-00] :   * PppsGetting Complete!___T-cst:{0.05184650421142578}
+[ LOG--2019-11-13-14-02-00] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-00] :   * FTTLGetting Complete!___T-cst:{0.0009870529174804688}
+[ LOG--2019-11-13-14-02-00] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-00] :   * WTFProcessing Complete!___T-cst:{0.0009872913360595703}
+[ LOG--2019-11-13-14-02-00] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/khd2018.html
+[ LOG--2019-11-13-14-02-00] : ---------------------------------
+[ LOG--2019-11-13-14-02-00] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/aih2018.html
+[ LOG--2019-11-13-14-02-00] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-02] :   * NetPccsing Complete!___T-cst:{-1.3600778579711914}
+[ LOG--2019-11-13-14-02-02] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-02] :   * Pdpccsing Complete!___T-cst:{0.26429152488708496}
+[ LOG--2019-11-13-14-02-02] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-02] :   * PppsGetting Complete!___T-cst:{0.07526063919067383}
+[ LOG--2019-11-13-14-02-02] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-02] :   * FTTLGetting Complete!___T-cst:{0.0009930133819580078}
+[ LOG--2019-11-13-14-02-02] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-02] :   * WTFProcessing Complete!___T-cst:{0.002061128616333008}
+[ LOG--2019-11-13-14-02-02] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/aih2018.html
+[ LOG--2019-11-13-14-02-02] : ---------------------------------
+[ LOG--2019-11-13-14-02-02] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/aih2018s.html
+[ LOG--2019-11-13-14-02-02] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-04] :   * NetPccsing Complete!___T-cst:{-1.5148375034332275}
+[ LOG--2019-11-13-14-02-04] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-04] :   * Pdpccsing Complete!___T-cst:{0.37984251976013184}
+[ LOG--2019-11-13-14-02-04] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-04] :   * PppsGetting Complete!___T-cst:{0.053293704986572266}
+[ LOG--2019-11-13-14-02-04] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-04] :   * FTTLGetting Complete!___T-cst:{0.0019974708557128906}
+[ LOG--2019-11-13-14-02-04] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-04] :   * WTFProcessing Complete!___T-cst:{0.0010263919830322266}
+[ LOG--2019-11-13-14-02-04] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/aih2018s.html
+[ LOG--2019-11-13-14-02-04] : ---------------------------------
+[ LOG--2019-11-13-14-02-04] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/lacatoda2018.html
+[ LOG--2019-11-13-14-02-04] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-05] :   * NetPccsing Complete!___T-cst:{-1.073225975036621}
+[ LOG--2019-11-13-14-02-05] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-05] :   * Pdpccsing Complete!___T-cst:{0.1097402572631836}
+[ LOG--2019-11-13-14-02-05] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-05] :   * PppsGetting Complete!___T-cst:{0.03590893745422363}
+[ LOG--2019-11-13-14-02-05] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-05] :   * FTTLGetting Complete!___T-cst:{0.0019922256469726562}
+[ LOG--2019-11-13-14-02-05] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-05] :   * WTFProcessing Complete!___T-cst:{0.0009987354278564453}
+[ LOG--2019-11-13-14-02-05] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/lacatoda2018.html
+[ LOG--2019-11-13-14-02-05] : ---------------------------------
+[ LOG--2019-11-13-14-02-05] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/mrc2018.html
+[ LOG--2019-11-13-14-02-05] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-07] :   * NetPccsing Complete!___T-cst:{-1.7305421829223633}
+[ LOG--2019-11-13-14-02-07] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-07] :   * Pdpccsing Complete!___T-cst:{0.14858698844909668}
+[ LOG--2019-11-13-14-02-07] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-07] :   * PppsGetting Complete!___T-cst:{0.0319361686706543}
+[ LOG--2019-11-13-14-02-07] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-07] :   * FTTLGetting Complete!___T-cst:{0.0019953250885009766}
+[ LOG--2019-11-13-14-02-07] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-07] :   * WTFProcessing Complete!___T-cst:{0.001989126205444336}
+[ LOG--2019-11-13-14-02-07] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/mrc2018.html
+[ LOG--2019-11-13-14-02-07] : ---------------------------------
+[ LOG--2019-11-13-14-02-07] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/bridging2018.html
+[ LOG--2019-11-13-14-02-07] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-08] :   * NetPccsing Complete!___T-cst:{-0.8365328311920166}
+[ LOG--2019-11-13-14-02-08] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-08] :   * Pdpccsing Complete!___T-cst:{0.13016343116760254}
+[ LOG--2019-11-13-14-02-08] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-08] :   * PppsGetting Complete!___T-cst:{0.03191566467285156}
+[ LOG--2019-11-13-14-02-08] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-08] :   * FTTLGetting Complete!___T-cst:{0.0009949207305908203}
+[ LOG--2019-11-13-14-02-08] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-08] :   * WTFProcessing Complete!___T-cst:{0.0010082721710205078}
+[ LOG--2019-11-13-14-02-08] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/bridging2018.html
+[ LOG--2019-11-13-14-02-08] : ---------------------------------
+[ LOG--2019-11-13-14-02-08] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/cgw2018.html
+[ LOG--2019-11-13-14-02-08] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-09] :   * NetPccsing Complete!___T-cst:{-0.8895092010498047}
+[ LOG--2019-11-13-14-02-09] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-09] :   * Pdpccsing Complete!___T-cst:{0.10774374008178711}
+[ LOG--2019-11-13-14-02-09] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-09] :   * PppsGetting Complete!___T-cst:{0.02596759796142578}
+[ LOG--2019-11-13-14-02-09] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-09] :   * FTTLGetting Complete!___T-cst:{0.0009968280792236328}
+[ LOG--2019-11-13-14-02-09] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-09] :   * WTFProcessing Complete!___T-cst:{0.0009984970092773438}
+[ LOG--2019-11-13-14-02-09] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/cgw2018.html
+[ LOG--2019-11-13-14-02-09] : ---------------------------------
+[ LOG--2019-11-13-14-02-09] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/ijcai2017.html
+[ LOG--2019-11-13-14-02-09] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-19] :   * NetPccsing Complete!___T-cst:{-9.583982229232788}
+[ LOG--2019-11-13-14-02-19] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-26] :   * Pdpccsing Complete!___T-cst:{6.523165702819824}
+[ LOG--2019-11-13-14-02-26] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-27] :   * PppsGetting Complete!___T-cst:{1.878596544265747}
+[ LOG--2019-11-13-14-02-27] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-27] :   * FTTLGetting Complete!___T-cst:{0.0}
+[ LOG--2019-11-13-14-02-27] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-27] :   * WTFProcessing Complete!___T-cst:{0.007928609848022461}
+[ LOG--2019-11-13-14-02-27] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/ijcai2017.html
+[ LOG--2019-11-13-14-02-27] : ---------------------------------
+[ LOG--2019-11-13-14-02-27] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/socinf2017.html
+[ LOG--2019-11-13-14-02-27] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-29] :   * NetPccsing Complete!___T-cst:{-1.594679355621338}
+[ LOG--2019-11-13-14-02-29] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-29] :   * Pdpccsing Complete!___T-cst:{0.09476804733276367}
+[ LOG--2019-11-13-14-02-29] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-29] :   * PppsGetting Complete!___T-cst:{0.018944978713989258}
+[ LOG--2019-11-13-14-02-29] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-29] :   * FTTLGetting Complete!___T-cst:{0.002044200897216797}
+[ LOG--2019-11-13-14-02-29] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-29] :   * WTFProcessing Complete!___T-cst:{0.001974344253540039}
+[ LOG--2019-11-13-14-02-29] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/socinf2017.html
+[ LOG--2019-11-13-14-02-29] : ---------------------------------
+[ LOG--2019-11-13-14-02-29] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/linkdem2017.html
+[ LOG--2019-11-13-14-02-29] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-30] :   * NetPccsing Complete!___T-cst:{-0.9238460063934326}
+[ LOG--2019-11-13-14-02-30] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-30] :   * Pdpccsing Complete!___T-cst:{0.12966656684875488}
+[ LOG--2019-11-13-14-02-30] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-30] :   * PppsGetting Complete!___T-cst:{0.027956247329711914}
+[ LOG--2019-11-13-14-02-30] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-30] :   * FTTLGetting Complete!___T-cst:{0.001979351043701172}
+[ LOG--2019-11-13-14-02-30] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-30] :   * WTFProcessing Complete!___T-cst:{0.0009911060333251953}
+[ LOG--2019-11-13-14-02-30] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/linkdem2017.html
+[ LOG--2019-11-13-14-02-30] : ---------------------------------
+[ LOG--2019-11-13-14-02-30] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/cea2017.html
+[ LOG--2019-11-13-14-02-30] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-31] :   * NetPccsing Complete!___T-cst:{-1.038886308670044}
+[ LOG--2019-11-13-14-02-31] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-32] :   * Pdpccsing Complete!___T-cst:{0.1356360912322998}
+[ LOG--2019-11-13-14-02-32] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-32] :   * PppsGetting Complete!___T-cst:{0.045905351638793945}
+[ LOG--2019-11-13-14-02-32] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-32] :   * FTTLGetting Complete!___T-cst:{0.0009708404541015625}
+[ LOG--2019-11-13-14-02-32] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-32] :   * WTFProcessing Complete!___T-cst:{0.0}
+[ LOG--2019-11-13-14-02-32] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/cea2017.html
+[ LOG--2019-11-13-14-02-32] : ---------------------------------
+[ LOG--2019-11-13-14-02-32] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/cgw2017.html
+[ LOG--2019-11-13-14-02-32] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-33] :   * NetPccsing Complete!___T-cst:{-1.0772767066955566}
+[ LOG--2019-11-13-14-02-33] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-33] :   * Pdpccsing Complete!___T-cst:{0.1376631259918213}
+[ LOG--2019-11-13-14-02-33] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-33] :   * PppsGetting Complete!___T-cst:{0.03493380546569824}
+[ LOG--2019-11-13-14-02-33] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-33] :   * FTTLGetting Complete!___T-cst:{0.0009975433349609375}
+[ LOG--2019-11-13-14-02-33] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-33] :   * WTFProcessing Complete!___T-cst:{0.0019960403442382812}
+[ LOG--2019-11-13-14-02-33] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/cgw2017.html
+[ LOG--2019-11-13-14-02-33] : ---------------------------------
+[ LOG--2019-11-13-14-02-33] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/khd2017.html
+[ LOG--2019-11-13-14-02-33] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-34] :   * NetPccsing Complete!___T-cst:{-1.0599493980407715}
+[ LOG--2019-11-13-14-02-34] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-34] :   * Pdpccsing Complete!___T-cst:{0.09976339340209961}
+[ LOG--2019-11-13-14-02-34] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-34] :   * PppsGetting Complete!___T-cst:{0.023936748504638672}
+[ LOG--2019-11-13-14-02-34] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-34] :   * FTTLGetting Complete!___T-cst:{0.0009963512420654297}
+[ LOG--2019-11-13-14-02-34] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-34] :   * WTFProcessing Complete!___T-cst:{0.001997232437133789}
+[ LOG--2019-11-13-14-02-34] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/khd2017.html
+[ LOG--2019-11-13-14-02-34] : ---------------------------------
+[ LOG--2019-11-13-14-02-34] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/affcomp2017.html
+[ LOG--2019-11-13-14-02-34] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-35] :   * NetPccsing Complete!___T-cst:{-1.159433126449585}
+[ LOG--2019-11-13-14-02-35] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-36] :   * Pdpccsing Complete!___T-cst:{0.2245771884918213}
+[ LOG--2019-11-13-14-02-36] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-36] :   * PppsGetting Complete!___T-cst:{0.016952991485595703}
+[ LOG--2019-11-13-14-02-36] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-36] :   * FTTLGetting Complete!___T-cst:{0.0009968280792236328}
+[ LOG--2019-11-13-14-02-36] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-36] :   * WTFProcessing Complete!___T-cst:{0.000997304916381836}
+[ LOG--2019-11-13-14-02-36] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/affcomp2017.html
+[ LOG--2019-11-13-14-02-36] : ---------------------------------
+[ LOG--2019-11-13-14-02-36] : * STP URL == https://dblp.uni-trier.de/db/conf/ijcai/caid2017.html
+[ LOG--2019-11-13-14-02-36] :   * NetPccsing>>>>>>
+[ LOG--2019-11-13-14-02-37] :   * NetPccsing Complete!___T-cst:{-1.0955414772033691}
+[ LOG--2019-11-13-14-02-37] :   * Pdpccsing>>>>>>
+[ LOG--2019-11-13-14-02-37] :   * Pdpccsing Complete!___T-cst:{0.09876704216003418}
+[ LOG--2019-11-13-14-02-37] :   * PppsGetting>>>>>>
+[ LOG--2019-11-13-14-02-37] :   * PppsGetting Complete!___T-cst:{0.029933452606201172}
+[ LOG--2019-11-13-14-02-37] :   * FTTLGetting>>>>>>
+[ LOG--2019-11-13-14-02-37] :   * FTTLGetting Complete!___T-cst:{0.0009968280792236328}
+[ LOG--2019-11-13-14-02-37] :   * WTFProcessing>>>>>>
+[ LOG--2019-11-13-14-02-37] :   * WTFProcessing Complete!___T-cst:{0.0009653568267822266}
+[ LOG--2019-11-13-14-02-37] : * FIN URL == https://dblp.uni-trier.de/db/conf/ijcai/caid2017.html
+[ LOG--2019-11-13-14-02-37] : ---------------------------------
